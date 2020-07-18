@@ -2,4 +2,3 @@ Changes made by developer2 updated by devlpoer1
 Changes made by dev1 to test .git
 modifiedin master branch
 
-modified master branch to test git merge from github.
